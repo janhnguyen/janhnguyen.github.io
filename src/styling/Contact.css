@@ -1,0 +1,16 @@
+.contact{
+    font-size: 24px;
+    margin-top: 5%;
+}
+
+.contact-links{
+}
+
+.contact-icons{
+    margin: 10px;
+    transition: opacity 0.3s ease;
+}
+
+.contact-icons:hover {
+    opacity: 0.7;
+}
