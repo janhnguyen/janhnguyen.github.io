@@ -12,7 +12,7 @@ function App() {
     <div className="App">
 
       <Header />
-        <Router>
+        <Router basename="/janhnguyen.github.io">
             <Routes>
                 <Route path="/" element={<Home />} />
                 <Route path="/about" element={<About />} />
