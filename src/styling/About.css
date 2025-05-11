@@ -1,0 +1,22 @@
+.about-container{
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    gap: 20px;
+    margin-top: 1%;
+}
+
+.about-left{
+    margin-left: 5%;
+    margin-right: 5%;
+    width: 50%;
+}
+
+.about-right{
+    width: 50%;
+}
+
+.about-selfie{
+    height: 300px;
+    width: 300px;
+}
