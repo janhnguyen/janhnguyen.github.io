@@ -1,15 +1,10 @@
-.header {
+.footer {
     display: flex;
     justify-content: space-between;
     align-items: center;
     padding: 15px 30px;
     background-color: #F9EEE2;
     color: black;
-}
-
-.logo {
-    font-size: 1.5rem;
-    font-weight: bold;
 }
 
 .nav a {
